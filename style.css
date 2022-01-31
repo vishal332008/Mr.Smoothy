@@ -1,0 +1,53 @@
+body{
+    background-color :rgb(0, 0, 0);
+    color: wheat;
+}
+h1{
+    color : rgb(255, 255, 255);
+    margin-left: 300px;
+
+}
+
+.header{
+    background-color: rgb(146, 14, 36);
+    display : flex;
+    justify-content: space-between;
+}
+
+.menu{
+ margin-right: 30px;
+ margin-top: 30px;
+}
+
+.menu1{
+    margin-top: 20px;
+   }
+
+.footer{
+    display: flex;
+    justify-content: flex-end;
+}
+
+h3,h2{
+    text-align: center;
+}
+
+a:link{
+    color:black;
+}
+
+a:visited{
+    color:darkblue;
+}
+
+.menu a{
+    margin-left: 30px;
+}
+.item{
+    position: relative;
+    padding-bottom: 50px;
+}
+
+.item h3{
+    margin-top: 50px;
+}
